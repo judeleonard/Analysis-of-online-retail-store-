@@ -9,4 +9,5 @@ The above visualization was used to gain insights on:
 - Cohort analysis to gain insight on customer retention and accquistion in each region
 - Total revenue generated in each region in a particular year. 
 
+See detailed analysis [here](https://www.linkedin.com/posts/jude-ndu-78ab38175_sales-datascience-dataanalytics-activity-6797183316421349376-5gGB)
 
